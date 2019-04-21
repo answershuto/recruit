@@ -2,48 +2,25 @@
 
 欢迎大家自荐或者推荐学弟学妹们～
 
-## 关于阿里通信
+## 关于我们
 
-阿里通信隶属阿里巴巴集团，致力于将传统通信业务和能力与互联网相结合，为消费者和企业提供创新型通信服务，是互联网通信服务提供商。 目前阿里通信拥有多样性的互联网通信服务能力和平台，包括：天猫营业厅、阿里大于通信能力平台、流量钱包、阿里通信IoT连接解决方案、170业务等。
+我们是阿里云智能商业中台体验技术团队
 
-## 我们的愿景
+- 业务上：负责阿里云官网&营销、商业化流程构建体验及效率、横向交叉售卖能力、销售和合作伙伴 CRM 平台、天猫网厅(手机充值、流量充值、加油卡、游戏陪玩等等)、阿里通信。
 
-让天下没有难连接的通信
+- 技术上：我们拥有开源工具 Dawn 作为项目工程化流程编排，并开源；探索 Serverless 给端开发者带来的效率提升以，通过类 GraphQL+Serverless 实现接口聚合，减少前后端沟通成本；并沉淀为能力实现独立的 NoOps 应用，实现垂直领域的业务能力建设，比如：搭建体系、流程引擎、中后台配置体系等。
 
-## 相关业务案例
+## 我们需要这样的你：
 
-- [阿里通信170号卡](https://aliqin.tmall.com/)
-- [阿里宝卡](https://m.10010.com/scaffold-show/Alicard?subSource=myalicom_more&channel=02&acm=lb-zebra-269123-2530386.1003.4.2228627&scm=1003.4.lb-zebra-269123-2530386.OTHER_15148242203599_2228627)
-- [天猫营业厅](https://wt.tmall.com/)
-- [阿里天机-通信电商能力开放平台](https://alitj.tmall.com/)
-- [阿里云云通信-短信](https://www.aliyun.com/product/sms)
-- [阿里云云通信-流量](https://www.aliyun.com/product/cdps)
-- [阿里云云通信-语音](https://www.aliyun.com/product/vms)
-- [阿里云云通信-号码隐私](https://www.aliyun.com/product/pls)
-- [阿里云云通信-物联网卡](https://www.aliyun.com/product/olddyiot)
-- [手淘 - 充值中心](https://market.m.taobao.com/apps/recharge/home/home.html?wh_weex=true)
-- [手淘 - 我的淘宝-我的通信](https://market.m.taobao.com/apps/market/ucenter/index.html?wh_weex=true)
-- [手淘 - 我的淘宝-卡券包-流量钱包](https://market.m.taobao.com/apps/market/flowwallet/index.html?wh_weex=true&subSource=myalicom_more&acm=lb-zebra-269123-2530386.1003.4.2228627&scm=1003.4.lb-zebra-269123-2530386.OTHER_15049427889402_2228627)
+- 1.2020 年本科或者研究生毕业的实习生
 
-太多了这里没法列全，另外还有对天猫商家的一些商家系统和中后台服务系统，这里就不一一举例
+- 2.熟悉使用各种 Web 前端技术，尤其对 React+Redux(Mobx、graphql-apollo 等) + webpack 熟练使用或者 vue 全家桶熟练使用；
 
-## 前端团队使用的技术
+- 3.我们也更希望你有全栈的意识，有一定的 Node.js 或者 Java 基础；
 
-- 个别内部的应用使用Node.js + Egg.js + Vue.js
-- PC端项目一般使用 React + Fusion（阿里内部React组件库）
-- 移动端一般使用 Weex（Rax） 加内部组件库来开发
-- 有十个左右的项目使用了 Vue.js
-- 我们基于 Vue 沉淀了一套 PC 端组件库 ATUI，内部近10个项目在用
-- 打造了基于 Weex（Rax） 的组件库（尚未开源）
-- 小二后台使用Ant Design
-- 客户端和前端团队在一起，可以接触 Android 和 IOS 开发我们的要求
+- 4.如果你对新事物、新技术感兴趣，且喜欢挑战，欢迎加入我们。
 
-## 我们的要求
-
-- 2年+专职前端经验。
-- 喜欢尝试和了解新鲜事物，特别是前端技术
-- 善于使用工具提升效率，有 Geek 精神
-- 关注 ES6、Webpack、Vue、React、PWA 等流行框架或技术
+- 5.我们base：北京或者杭州
 
 ## 代遇福利
 
@@ -51,6 +28,7 @@
 - 福利方面可以参考阿里薪酬福利介绍
 
 ## 团队生活
+
 - 丰富的业余生活，每月至少组织一次团队活动
 - 鼓励技术分享、跨团队技术交流
 - 每周一次羽毛球
@@ -61,7 +39,7 @@
 
 ## 考勤与加班
 
-没有打卡机制，但工作日早上 9.30 有固定早会，大约 15 分钟左右，如果有事晚到提前在群里吼下就行了。
+没有打卡机制，但每周有一天早上 9.30 有固定早会，大约 15 分钟左右，如果有事晚到提前在群里吼下就行了。
 
 不鼓励加班，一般情况下我们吃完晚饭会写写代码，或者学习学习，或者一起玩玩手游，7-8点就陆陆续续回家了，到 9-10点 的情况很少，周末几乎不加班，除非有特殊项目要发布。
 
